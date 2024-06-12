@@ -11,8 +11,11 @@ This project is an automated bot designed to play the online game Wordle Unlimit
 - Google Chrome browser
 - ChromeDriver (compatible with your Chrome browser version)
 - Selenium
+- Adblocker chrome extension CRX file (OPTIONAL)
 
-
+There are some changes that mus tbe made to succesfully run the script:
+- Edit the path to your ChromeDriver on **Line 24**
+- Uncomment and edit the path to your adblocker on **Lione 18** (OPTIONAL)
 
 ## Showcase
 
