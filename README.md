@@ -15,7 +15,7 @@ This project is an automated bot designed to play the online game Wordle Unlimit
 
 There are some changes that must be made to succesfully run the script:
 - Edit the path to your ChromeDriver on **Line 24**
-- Uncomment and edit the path to your adblocker on **Lione 18** (OPTIONAL)
+- Uncomment and edit the path to your adblocker on **Line 18** (OPTIONAL)
 
 ## Showcase
 
