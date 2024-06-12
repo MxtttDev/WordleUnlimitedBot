@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is an automated bot designed to play the online game Wordle Unlimited. Using the Selenium WebDriver, the bot interacts with the Wordle game, making educated guesses based on letter frequencies and feedback from previous guesses. The bot aims to guess the correct word within the allowed six attempts and tracks its success rate over multiple games.
+This project is an automated bot designed to play the online game [Wordle Unlimited](wordleunlimited.org). Using the Selenium WebDriver, the bot interacts with the Wordle game, making educated guesses based on letter frequencies and feedback from previous guesses. The bot aims to guess the correct word within the allowed six attempts and tracks its success rate over multiple games.
 
 
 ## Prerequisites
