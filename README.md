@@ -26,7 +26,7 @@ Above is a video demonstrating the bot in action.
 ![statistics](https://github.com/MxtttDev/WordleUnlimitedBot/assets/102174560/ae7084cb-d3bc-4b30-8507-c2b46ad92646)
 
 This is a screenshot of the statistics for 100 consecutive games. As shown the current success rate is approximately **95%**.
-The bar graph represents how many games used each amount of gueses. As shown, the bot most commonly guesses the correct word on the fourth guess.
+The bar graph represents how many games used each amount of guesses. As shown, the bot most commonly guesses the correct word on the fourth guess.
 ## Logic Overview
 
 ### Setup
